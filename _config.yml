@@ -1,5 +1,5 @@
 title: Celine Wang # your name (or website title) here
-logo: /assets/img/Celine.png # your photo (or logo) here
+logo: /assets/img/logo.png # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist, holding multiple certificates in data analysis and machine learning. 
   With a background in chemical research and education.
@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Detail orientated, embraces challenges and eager to learn new skills. 
   <br><br>
   Certificates:<br>
-  - Data science and visualization boot camp (UCSD)<br>
-  - Machine Learning Specialization (Deeplearning.AI)<br>
-  - Intensive Multi-Cloud Computing (The Cloud Bootcamp)<br>
-  - Data Analyst Professional Program (Task Impetus)<br>
-  - LinkedIn Badges: Python, MySQL, MS Excel<br>
+  - Data science and visualization boot camp<br>
+  - Machine Learning Specialization<br>
+  - Intensive Multi-Cloud Computing<br>
+  - Data Analyst Professional Program<br>
+  # - LinkedIn Badges: Python, MySQL, MS Excel<br>
   <br><br>
   <a href="https://www.linkedin.com/in/cewrs/">View My LinkedIn Profile</a> 
   <br>
