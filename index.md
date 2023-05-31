@@ -15,7 +15,7 @@
 ---
 [Multi-Cloud](http://example.com/)
 
-<img src="images/Covid MultiCloud System"/>
+<img src="images/Covid MultiCloud System.png"/>
 
 ---
 
