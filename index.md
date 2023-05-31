@@ -154,7 +154,7 @@ The final element.
   - Machine Learning Specialization<br>
   - Intensive Multi-Cloud Computing<br>
   - Data Analyst Professional Program<br>
-  # - LinkedIn Badges: Python, MySQL, MS Excel<br>
+  - LinkedIn Badges: Python, MySQL, MS Excel<br>
 
 
 ---
