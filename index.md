@@ -4,12 +4,13 @@
 
 ### Data Visualization 
 
-[Flask App](/sample_page)
+[Flask App](https://celineww.github.io/FoodMart_Media_Campaign/)
 
 <img src="images/FoodMart on Heroku.png"/>
 
 ---
-[Tableau](/pdf/sample_presentation.pdf)
+[Tableau](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
+<!--  (/pdf/sample_presentation.pdf) -->
 
 <img src="images/AmazingMart Sales Analysis Tableau.png"/>
 
