@@ -6,12 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Proficient in Mandarin and Japanese. 
   Detail orientated, embraces challenges and eager to learn new skills. 
   <br><br>
-  Certificates:<br>
-  - Data science and visualization boot camp<br>
-  - Machine Learning Specialization<br>
-  - Intensive Multi-Cloud Computing<br>
-  - Data Analyst Professional Program<br>
-  # - LinkedIn Badges: Python, MySQL, MS Excel<br>
+
   <br><br>
   <a href="https://www.linkedin.com/in/cewrs/">View My LinkedIn Profile</a> 
   <br>
@@ -21,4 +16,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 show_downloads: true
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here

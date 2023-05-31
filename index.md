@@ -149,9 +149,14 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
+  Certificates:<br>
+  - Data science and visualization boot camp<br>
+  - Machine Learning Specialization<br>
+  - Intensive Multi-Cloud Computing<br>
+  - Data Analyst Professional Program<br>
+  # - LinkedIn Badges: Python, MySQL, MS Excel<br>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+Remove above link if you don't want to attibute -->
