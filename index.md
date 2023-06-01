@@ -188,9 +188,12 @@ end
 <font size= "5">Thanks for reading😄!</font> 
 
 <p>
-<img src="https://img.shields.io/badge/Gmail%20-%D14836?style=for-the-badge&logo=gmail&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto: wzhj.ce@gmail.com">
+<img src="https://img.shields.io/badge/Gmail%20-%D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cewrs/">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/CelineWW">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
 </p>
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
@@ -203,8 +206,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-  Certificates:
-
+ Thanks for reading😄!
 ```
 
 
