@@ -128,7 +128,7 @@ end
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
 | Boot Camp          | Data Science and Visualization                   | University of California San Diego  | 05/2022 -11/2022 |
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
-| Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
+| Bachelor of Science| Chemistry                                        | Anhui Normal University(China)      | 09/2003 -07/2007 |
 
 
 ### Certificates
