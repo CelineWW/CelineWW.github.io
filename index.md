@@ -9,7 +9,7 @@
 ---
 ## Data Engineering and Data Warehousing
 ### Skills
-- PostgreSQL, MySQL, AWS, Google Cloud Planform, NoSQL(MongoDB), SQLite, ETL  
+- PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
 ### Projects
 <table border="0">
  <tr>
@@ -28,36 +28,49 @@
 
 ## Machine Learning
 ### Skills
-- VS Code, Jupyter Notebook, Google Colab,
+- Python, VS Code, Jupyter Notebook, Google Colab,
 ### Projects
 
 ## Data Visualization 
 ### Skills
+- Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ### Projects
-
-## Data Mining and Statistic Analysis 
-### Skills
-### Projects
-
-## Cloud Computing 
-### Skills
-### Projects
-
+- Foodmart
+---BBB 
+---AmzingMart
+--- 
 
 [Flask App](https://celineww.github.io/FoodMart_Media_Campaign/)
 
 <img src="images/FoodMart on Heroku.png"/>
 
----
 [Tableau](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
-<!--  (/pdf/sample_presentation.pdf) -->
+<!--   -->
 
 <img src="images/AmazingMart Sales Analysis Tableau.png"/>
 
----
-[Multi-Cloud](http://example.com/)
+## Data Mining and Statistic Analysis 
+### Skills
+- Web Scraping Python, Pandas, Numpy, R
+### Projects
+Mars
+
+
+## Cloud Computing 
+### Skills
+- AWS, Google Cloud Planform, MySQL
+### Projects
+[Multi-Cloud]((/pdf/sample_presentation.pdf))
 
 <img src="images/Covid MultiCloud System.png"/>
+
+
+
+---
+
+
+---
+
 
 ---
 
