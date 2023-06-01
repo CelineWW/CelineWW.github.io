@@ -122,7 +122,7 @@ end
 3.  This is an ordered list following a header.
 
 ### Education
-*Currently working as a __learning assistant__ in __Data Analytics and Visualization Program__ in 2U  
+*Currently working as a __learning assistant(instrutional Specialiazation Team)__ in __Data Analytics and Visualization Program__ in 2U  
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
@@ -130,56 +130,13 @@ end
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
 | Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
 
-<dl>
-<dt>Data Science and Visualization Boot Camp</dt>
-<dd>University of California San Diego</dd>  05/2022 -11/2022
-<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
-<dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
-<dt>B.S. in Chemistry</dt>
-<dd>Anhui Normal University 09/2003 -07/2007</dd>
-</dl>
 
 ### Certificates
-  - Machine Learning Specialization     **Deeplearning.AI**
-  - Data science and visualization      **UCSD**           
-  - Intensive Multi-Cloud Computing     **The Cloud Bootcamp**
-  - Data Analyst Professional Program   **Task Impetu**
-  - Python, MySQL, MS Excel             **LinkedIn**
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
+  - Machine Learning Specialization     ---->**Deeplearning.AI**
+  - Data science and visualization      ---->**UCSD**           
+  - Intensive Multi-Cloud Computing     ---->**The Cloud Bootcamp**
+  - Data Analyst Professional Program   ---->**Task Impetu**
+  - Python, MySQL, MS Excel             ---->**LinkedIn**
 
 <p>
 <a href="mailto: wzhj.ce@gmail.com">
