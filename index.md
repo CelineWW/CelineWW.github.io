@@ -121,7 +121,8 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-### Work Experience
+### Education
+*Currently working as a __learning assistant__ in __Data Analytics and Visualization Program__ in 2U  
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
@@ -129,11 +130,9 @@ end
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
 | Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
 
-### Education
-* Currently working as a learning assistant 
 <dl>
 <dt>Data Science and Visualization Boot Camp</dt>
-<dd>University of California San Diego 05/2022 -11/2022</dd>
+<dd>University of California San Diego</dd>  05/2022 -11/2022
 <dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
 <dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
 <dt>B.S. in Chemistry</dt>
@@ -192,8 +191,8 @@ end
 </p>
 
 
-```diff
- @@😄Thanks for reading!😄@@
+```
+😄Thanks for reading!😄
 ```
 
 
