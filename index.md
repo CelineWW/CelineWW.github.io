@@ -122,7 +122,7 @@ end
 3.  This is an ordered list following a header.
 
 ### Education
-*Currently working as a __learning assistant(instrutional Specialiazation Team)__ in __Data Analytics and Visualization Program__ in 2U  
+*Currently working as a __learning assistant(Instrutional Specialiazation Team)__ in __Data Analytics and Visualization Program__ in 2U  
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
