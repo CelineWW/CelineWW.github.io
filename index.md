@@ -1,17 +1,9 @@
 # Portfolio
 - [Data Engineering and Data Warehousing](#data-engineering-and-data-warehousing)
-  - [Skills](#Skills)      [Projects](#projects) 
 - [Machine Learning](#machine-learning)
-  - [Skills](#Skills)      [Projects](#projects)
 - [Data Visualization](#data-visualization)
-  - [Skills](#Skills)
-  - [Projects](#projects) 
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
-  - [Skills](#Skills)
-  - [Projects](#projects) 
-- [Cloud Computing](#cloud-coumputing)
-  - [Skills](#Skills)
-  - [Projects](#projects)   
+- [Cloud Computing](#cloud-coumputing)  
 - [Education](#education)
 - [Credentials](#credentials)
 ---
@@ -127,14 +119,20 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+### Education
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Degree             | Major                                            | School                              | Period           |
+|:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
+| Certification      | Data Science and Visualization Boot Camp         | University of California San Diego  | 05/2022 -11/2022 |
+| Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
+| Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
+
+### Credentials
+  - Data science and visualization boot camp
+  - Machine Learning Specialization
+  - Intensive Multi-Cloud Computing
+  - Data Analyst Professional Program
+  - LinkedIn Badges: Python, MySQL, MS Excel
 
 ### There's a horizontal rule below this.
 
@@ -179,7 +177,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Education
 
 <dl>
 <dt>Name</dt>
