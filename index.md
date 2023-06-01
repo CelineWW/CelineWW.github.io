@@ -1,8 +1,56 @@
-## Portfolio
-
+# Portfolio
+- [Data Engineering and Warehousing](##data-engineering-and-data-warehousing)
+  - [Skills](###Skills)
+  - [Projects](###projects) 
+- [Machine Learning](##machine-learning)
+  - [Skills](###Skills)
+  - [Projects](###projects)
+- [Data Visualization](##data-visualization)
+  - [Skills](###Skills)
+  - [Projects](###projects) 
+- [Data Mining and Statistic Analysis](##data-mining-and-statistic-analysis)
+  - [Skills](###Skills)
+  - [Projects](###projects) 
+- [Cloud Computing](##cloud-coumputing)
+  - [Skills](###Skills)
+  - [Projects](###projects)   
+- [Education](##education)
+- [Credentials](##credentials)
 ---
+## Data Engineering and Warehousing
+### Skills
+- PostgreSQL, MySQL, AWS, Google Cloud Planform, NoSQL(MongoDB), SQLite, ETL  
+### Projects
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">ETL Data Pipeline</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Extract and transform data from different data sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+</table>
 
-### Data Visualization 
+## Machine Learning
+### Skills
+- VS Code, Jupyter Notebook, Google Colab,
+### Projects
+
+## Data Visualization 
+### Skills
+### Projects
+
+## Data Mining and Statistic Analysis 
+### Skills
+### Projects
+
+## Cloud Computing 
+### Skills
+### Projects
+
 
 [Flask App](https://celineww.github.io/FoodMart_Media_Campaign/)
 
