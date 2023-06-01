@@ -5,7 +5,7 @@
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
 - [Cloud Computing](#cloud-coumputing)  
 - [Education](#education)
-- [Credentials](#credentials)
+- [Certificates](#certificates)
 ---
 ## Data Engineering and Data Warehousing
 ### Skills
@@ -119,7 +119,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-### Education
+### Work Experience
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
@@ -127,12 +127,23 @@ end
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
 | Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
 
+### Education
+* Currently working as a learning assistant 
+<dl>
+<dt>Data Science and Visualization Boot Camp</dt>
+<dd>University of California San Diego 05/2022 -11/2022</dd>
+<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
+<dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
+<dt>B.S. in Chemistry</dt>
+<dd>Anhui Normal University 09/2003 -07/2007</dd>
+</dl>
+
 ### Certificates
-  - Machine Learning Specialization     Deeplearning.AI
-  - Data science and visualization      UCSD           
-  - Intensive Multi-Cloud Computing     The Cloud Bootcamp
-  - Data Analyst Professional Program   Task Impetus
-  - Python, MySQL, MS Excel             LinkedIn
+  - Machine Learning Specialization     **Deeplearning.AI**
+  - Data science and visualization      **UCSD**           
+  - Intensive Multi-Cloud Computing     **The Cloud Bootcamp**
+  - Data Analyst Professional Program   **Task Impetu**
+  - Python, MySQL, MS Excel             **LinkedIn**
 
 ### There's a horizontal rule below this.
 
@@ -172,23 +183,17 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+<font size= "5"><span style="color: blue">Thanks for reading</span><font> 😄
+<p>
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Education
 
-<dl>
-<dt>Data Science and Visualization Boot Camp</dt>
-<dd>University of California San Diego 05/2022 -11/2022</dd>
-<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
-<dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
-<dt>B.S. in Chemistry</dt>
-<dd>Anhui Normal University 09/2003 -07/2007</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
@@ -196,11 +201,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
   Certificates:
-  - Data science and visualization boot camp
-  - Machine Learning Specialization
-  - Intensive Multi-Cloud Computing
-  - Data Analyst Professional Program
-  - LinkedIn Badges: Python, MySQL, MS Excel
+
 ```
 
 
