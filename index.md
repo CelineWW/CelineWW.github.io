@@ -13,15 +13,17 @@
 ### Projects
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">ETL Data Pipeline</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td width=50%><b style="font-size:30px">ETL Data Pipeline</b></td>
+    <td width=50%><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Extract and transform data from different data sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td width=50%>Extract and transform data from different data sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.</td>
+    <td width=50%>Lorem ipsum ...</td>
+ </tr> 
+ <tr>
+    <td width=50%>Lorem ipsum ...</td>
+    <td width=50%>Lorem ipsum ...</td>
+  </tr>
 </table>
 
 ## Machine Learning
@@ -206,7 +208,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
- Thanks for reading😄!
+ >**Thanks for reading😄!
 ```
 
 
