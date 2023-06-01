@@ -1,23 +1,23 @@
 # Portfolio
-- [Data Engineering and Warehousing](##data-engineering-and-data-warehousing)
-  - [Skills](###Skills)
-  - [Projects](###projects) 
-- [Machine Learning](##machine-learning)
+- [Data Engineering and Data Warehousing](#data-engineering-and-data-warehousing)
+  - [Skills](#Skills)
+  - [Projects](#projects) 
+- [Machine Learning](#machine-learning)
   - [Skills](###Skills)
   - [Projects](###projects)
-- [Data Visualization](##data-visualization)
+- [Data Visualization](#data-visualization)
   - [Skills](###Skills)
   - [Projects](###projects) 
-- [Data Mining and Statistic Analysis](##data-mining-and-statistic-analysis)
+- [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
   - [Skills](###Skills)
   - [Projects](###projects) 
-- [Cloud Computing](##cloud-coumputing)
+- [Cloud Computing](#cloud-coumputing)
   - [Skills](###Skills)
   - [Projects](###projects)   
-- [Education](##education)
-- [Credentials](##credentials)
+- [Education](#education)
+- [Credentials](#credentials)
 ---
-## Data Engineering and Warehousing
+## Data Engineering and Data Warehousing
 ### Skills
 - PostgreSQL, MySQL, AWS, Google Cloud Planform, NoSQL(MongoDB), SQLite, ETL  
 ### Projects
