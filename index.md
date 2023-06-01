@@ -123,16 +123,16 @@ end
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
-| Certification      | Data Science and Visualization Boot Camp         | University of California San Diego  | 05/2022 -11/2022 |
+| Boot Camp          | Data Science and Visualization                   | University of California San Diego  | 05/2022 -11/2022 |
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
 | Bachelor of Science| Chemistry                                        | Anhui Normal University             | 09/2003 -07/2007 |
 
-### Credentials
-  - Data science and visualization boot camp
-  - Machine Learning Specialization
-  - Intensive Multi-Cloud Computing
-  - Data Analyst Professional Program
-  - LinkedIn Badges: Python, MySQL, MS Excel
+### Certificates
+  - Machine Learning Specialization     Deeplearning.AI
+  - Data science and visualization      UCSD           
+  - Intensive Multi-Cloud Computing     The Cloud Bootcamp
+  - Data Analyst Professional Program   Task Impetus
+  - Python, MySQL, MS Excel             LinkedIn
 
 ### There's a horizontal rule below this.
 
@@ -180,12 +180,12 @@ end
 ### Education
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
+<dt>Data Science and Visualization Boot Camp</dt>
+<dd>University of California San Diego 05/2022 -11/2022</dd>
+<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
+<dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
+<dt>B.S. in Chemistry</dt>
+<dd>Anhui Normal University 09/2003 -07/2007</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
