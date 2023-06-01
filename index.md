@@ -182,10 +182,13 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<span style="color: blue">
+ </span>
 
-<font size= "5"><span style="color: blue">Thanks for reading😄!</span></font> 
+<font size= "5">Thanks for reading😄!</font> 
+
 <p>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://img.shields.io/badge/Gmail%20-%D14836?style=for-the-badge&logo=gmail&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
