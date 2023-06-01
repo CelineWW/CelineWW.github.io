@@ -181,13 +181,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-<span style="color: blue">
- </span>
-
-<font size= "5">Thanks for reading😄!</font> 
 
 <p>
 <a href="mailto: wzhj.ce@gmail.com">
@@ -198,17 +191,9 @@ end
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
 </p>
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
- >**Thanks for reading😄!
+ 😄Thanks for reading!😄
 ```
 
 
