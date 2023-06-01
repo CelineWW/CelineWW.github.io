@@ -156,9 +156,9 @@ end
 ### Certificates
   - Machine Learning Specialization | **Deeplearning.AI**
   - Data science and visualization | **UCSD**           
-  - Intensive Multi-Cloud Computing   | **The Cloud Bootcamp**
-  - Data Analyst Professional Program  | **Task Impetus**
-  - Python, MySQL, MS Excel  | **LinkedIn**
+  - Intensive Multi-Cloud Computing |**The Cloud Bootcamp**
+  - Data Analyst Professional Program  -**Task Impetus**
+  - Python, MySQL, MS Excel **LinkedIn**
 
 <p>
 <a href="mailto: wzhj.ce@gmail.com">
