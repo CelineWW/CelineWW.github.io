@@ -145,11 +145,11 @@ end
 
 <dl>
 <dt>Data Science and Visualization Boot Camp</dt>
-<dd>University of California San Diego 05/2022 -11/2022</dd>
+<dd>University of California San Diego | 05/2022 -11/2022</dd>
 <dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
-<dd>Nanjing Normal University(China) 09/2007 -07/2010</dd>
+<dd>Nanjing Normal University(China) | 09/2007 -07/2010</dd>
 <dt>B.S. in Chemistry</dt>
-<dd>Anhui Normal University 09/2003 -07/2007</dd>
+<dd>Anhui Normal University | 09/2003 -07/2007</dd>
 </dl>
 
 
@@ -157,7 +157,7 @@ end
   - Machine Learning Specialization | **Deeplearning.AI**
   - Data science and visualization | **UCSD**           
   - Intensive Multi-Cloud Computing   | **The Cloud Bootcamp**
-  - Data Analyst Professional Program  | **Task Impetu**
+  - Data Analyst Professional Program  | **Task Impetus**
   - Python, MySQL, MS Excel  | **LinkedIn**
 
 <p>
