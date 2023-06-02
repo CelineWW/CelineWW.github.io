@@ -64,7 +64,7 @@ Python, Pandas, Numpy, R, MS Excel
 ### Skills
 AWS, Google Cloud Planform, MySQL
 ### Projects
-1. [Covid Testing MultiCloud](/pdf/Zhujun Wang_tcb_Mission.pdf))
+1. [Covid Testing MultiCloud](/pdf/Zhujun Wang_tcb_Mission.pdf)
 
 [<img src="images/Covid MultiCloud System.png"/>](https://github.com/CelineWW/Covid_Testing_Cloud_Data)
 
