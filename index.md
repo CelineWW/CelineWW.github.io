@@ -10,12 +10,12 @@
 ---
 ## Data Engineering and Data Warehousing
 ### Skills
-> PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data 
+> PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data, 
 ### Projects
 1. [Movies ETL Pipeline:](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.
 2. [Amazon Vine Review Big Data:](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon reviews on Office Products via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
 3. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
-4. [Mars Web Scraping](https://github.com/CelineWW/Mars_Web_Scrapping)Scrape facts, news, and images from public websites about Mars and display on a customized flask app.
+4. [Mars Web Scraping](https://github.com/CelineWW/Mars_Web_Scrapping) Scrape facts, news, and images from public websites about Mars and display on a customized flask app.
 <!-- <table border="0">
  <tr>
     <td width=50%><b style="font-size:30px">ETL Data Pipeline</b></td>
