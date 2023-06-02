@@ -11,11 +11,14 @@
 ## Data Engineering and Data Warehousing
 > 
 ### Skills
-PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data, 
+ PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data
 ### Projects
-1. [Movies ETL Pipeline:](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.
-2. [Amazon Vine Review Big Data:](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon reviews on Office Products via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
+1. [Movies ETL Pipeline:](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local file. well-structured dataset (26M records) was loaded into SQL for further queries.
+2. [Amazon Vine Review Big Data:](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon Office Products reviews via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
 3. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
+4. [Mars Web Scaping](https://github.com/CelineWW/Mars_Web_Scrapping) Reorganize the Mars information from multiple websites into a customized flask app.
+
+[<img src="images/extract_transform_load(wiki_file, kaggle_file, ratings_file).PNG"/>](https://github.com/CelineWW/Movies_ETL)
 
 ---
 ## Machine Learning
@@ -24,9 +27,17 @@ PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big
 Python, VS Code, Jupyter Notebook, Google Colab
 ### Projects
 
+
+
+
+
+
+
+---
 ## Data Visualization 
+> 
 ### Skills
-> Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
+Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ### Projects
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -48,8 +59,9 @@ Python, VS Code, Jupyter Notebook, Google Colab
 
 ---
 ## Data Mining and Statistic Analysis 
+> 
 ### Skills
-> Web Scraping Python, Pandas, Numpy, R
+Web Scraping Python, Pandas, Numpy, R
 ### Projects
 1. 
 2. 
@@ -57,8 +69,9 @@ Python, VS Code, Jupyter Notebook, Google Colab
 
 ---
 ## Cloud Computing 
+> 
 ### Skills
-> AWS, Google Cloud Planform, MySQL
+AWS, Google Cloud Planform, MySQL
 ### Projects
 [Multi-Cloud]((/pdf/sample_presentation.pdf))
 
@@ -114,12 +127,12 @@ end
 
 ### Education
 *Currently working as a __Learning Assistant__(Instrutional Specialiazation Team) in __Data Analytics and Visualization Program__ in 2U  
-
+<!-- 
 | Degree             | Major                                            | Institution                         | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
 | Boot Camp          | Data Science and Visualization                   | University of California San Diego  | 05/2022 -11/2022 |
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
-| Bachelor of Science| Chemistry                                        | Anhui Normal University(China)      | 09/2003 -07/2007 |
+| Bachelor of Science| Chemistry                                        | Anhui Normal University(China)      | 09/2003 -07/2007 | -->
 
 <dl>
 <dt>Data Science and Visualization Boot Camp</dt>
