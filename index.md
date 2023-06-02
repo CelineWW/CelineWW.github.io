@@ -24,13 +24,15 @@
 ## Machine Learning
 >
 ### Skills
-Python, VS Code, Jupyter Notebook, Google Colab
+Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Notebook, Google Colab
 ### Projects
+1. [FoodMart Media Campaign](https://github.com/CelineWW/FoodMart_Media_Campaign) Predict store sales and media cost with multiple linear regression. Classify customer membership with deep neural network.
+2. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Predict employee attrition by Logistic regression, decision tree classifier, random forest classifier, and XGBoost classifier model. 
+3. [Credit Risk Prediction](https://github.com/CelineWW/Credit_Risk_Prediction) Predict customer credit risk with multiple regeression and classifer models using resampling methods. Compare the model perform metrics before and after scaling.
+4. [Cryptocurrencies Clustering](https://github.com/CelineWW/Cryptocurrencies_Clustering) Cluster cryptocurrencies using KMeans Clustering from the view of elbow curve.
 
 
-
-
-
+[<img src="images/FoodMart on Heroku.png"/>](https://celineww.github.io/FoodMart_Media_Campaign/)
 
 
 ---
@@ -39,10 +41,9 @@ Python, VS Code, Jupyter Notebook, Google Colab
 ### Skills
 Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ### Projects
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+1. 
+2. 
+
 - Foodmart
 -BBB 
 -AmzingMart
