@@ -6,13 +6,15 @@
 - [Cloud Computing](#cloud-coumputing)  
 - [Education](#education)
 - [Certificates](#certificates)
+
 ---
 
 ## Data Engineering and Data Warehousing
-### Skills
-PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
+- **Skills**
 
-### Projects
+  PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
+
+- **Projects**
 <table border="0">
  <tr>
     <td width=50%><b style="font-size:30px">ETL Data Pipeline</b></td>
