@@ -56,15 +56,15 @@ Python, Pandas, Numpy, R, MS Excel
 2. [Stock_Analysis_Excel_VBA](https://github.com/CelineWW/Stock_Analysis_Excel_VBA) Create stock index and calculate total daily volume and returns.
 3. [MechaCar R Statistical Analysis](https://github.com/CelineWW/MechaCar_Statistical_Analysis) Determine significant features that mostly impact MPG with multiple linear regression. Identify product quality from the statistics summary and t-test.
 
-[<img src="images/hist1.png"/>](https://github.com/CelineWW/Employee_Attrition_Prediction)
+[<img src="images/hist1.png"/>](https://github.com/CelineWW/Employee_Attrition_Prediction) 
 
 ---
-## Cloud Computing 
+## Cloud Computing and Automation
 > 
 ### Skills
-AWS, Google Cloud Planform, MySQL
+AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 ### Projects
-1. [Covid Testing MultiCloud](/pdf/tcb_Mission.pdf)
+1. [Covid Testing MultiCloud](/pdf/tcb_Mission.pdf) Deploy hotel customer covid test system docker container application running in the Google cloud, whereas saving customer's privacy on AWS.
 
 [<img src="images/Covid MultiCloud System.png"/>](https://github.com/CelineWW/Covid_Testing_Cloud_Data)
 
