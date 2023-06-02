@@ -8,12 +8,9 @@
 - [Certificates](#certificates)
 -
 ---
-
 ## Data Engineering and Data Warehousing
 ### Skills
-
-  PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
-
+>PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark_ 
 ### Projects
 <table border="0">
  <tr>
@@ -33,13 +30,17 @@
 ---
 ## Machine Learning
 ### Skills
-*Python, VS Code, Jupyter Notebook, Google Colab,
+_Python, VS Code, Jupyter Notebook, Google Colab,_
 ### Projects
 
 ## Data Visualization 
 ### Skills
-*Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel*
+_Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel_
 ### Projects
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 - Foodmart
 -BBB 
 -AmzingMart
@@ -57,30 +58,20 @@
 ---
 ## Data Mining and Statistic Analysis 
 ### Skills
-- Web Scraping Python, Pandas, Numpy, R
+_Web Scraping Python, Pandas, Numpy, R_
 ### Projects
-Mars
+1. 
+2. 
+3. Mars
 
 ---
 ## Cloud Computing 
 ### Skills
-- AWS, Google Cloud Planform, MySQL
+_AWS, Google Cloud Planform, MySQL_
 ### Projects
 [Multi-Cloud]((/pdf/sample_presentation.pdf))
 
 <img src="images/Covid MultiCloud System.png"/>
-
-
-
-
----
-### Data Visualization
-
-- Taleau(http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
