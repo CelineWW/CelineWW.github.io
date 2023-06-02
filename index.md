@@ -6,20 +6,23 @@
 - [Cloud Computing](#cloud-coumputing)  
 - [Education](#education)
 - [Certificates](#certificates)
--
 
 ---
 ## Data Engineering and Data Warehousing
 ### Skills
-> PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
+> PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data 
 ### Projects
-<table border="0">
+1. [Movies ETL Pipeline:](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.
+2. [Amazon Vine Review Big Data:](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon reviews on Office Products via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
+3. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
+4. [Mars Web Scraping](https://github.com/CelineWW/Mars_Web_Scrapping)Scrape facts, news, and images from public websites about Mars and display on a customized flask app.
+<!-- <table border="0">
  <tr>
     <td width=50%><b style="font-size:30px">ETL Data Pipeline</b></td>
     <td width=50%><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td width=50%>Extract and transform data from different data sources including Wikipedia, Kaggle metadata and local sources. well-structured csv file (26M records) was imported into SQL for further queries.</td>
+    <td width=50%>Lorem ipsum ...</td>
     <td width=50%>Lorem ipsum ...</td>
  </tr> 
  <tr>
@@ -27,7 +30,7 @@
     <td width=50%>Lorem ipsum ...</td>
   </tr>
 </table>
-
+ -->
 ---
 ## Machine Learning
 ### Skills
@@ -125,7 +128,7 @@ end
 ### Education
 *Currently working as a __Learning Assistant__(Instrutional Specialiazation Team) in __Data Analytics and Visualization Program__ in 2U  
 
-| Degree             | Major                                            | School                              | Period           |
+| Degree             | Major                                            | Institution                         | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
 | Boot Camp          | Data Science and Visualization                   | University of California San Diego  | 05/2022 -11/2022 |
 | Master of Education| Curriculum and Teaching Methodology (Chemistry)  | Nanjing Normal University(China)    | 09/2007 -07/2010 |
