@@ -26,11 +26,10 @@ PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big
 ### Skills
 Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Notebook, Google Colab
 ### Projects
-1. [FoodMart Media Campaign](https://github.com/CelineWW/FoodMart_Media_Campaign) Predict store sales and media cost with multiple linear regression. Classify customer membership with deep neural network.
-2. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Predict employee attrition by Logistic regression, decision tree classifier, random forest classifier, and XGBoost classifier model. 
-3. [Credit Risk Prediction](https://github.com/CelineWW/Credit_Risk_Prediction) Predict customer credit risk with multiple regeression and classifer models using resampling methods. Compare the model perform metrics before and after scaling.
-4. [Cryptocurrencies Clustering](https://github.com/CelineWW/Cryptocurrencies_Clustering) Cluster cryptocurrencies using KMeans Clustering from the view of elbow curve.
-
+1. [FoodMart Media Campaign](https://github.com/CelineWW/FoodMart_Media_Campaign) Predict store sales and media cost with multiple linear regression. Classify customer membership with deep neural network. 
+2. [Credit Risk Prediction](https://github.com/CelineWW/Credit_Risk_Prediction) Predict customer credit risk with logistic regeression and classifer models using resampling methods. Compare the model perform metrics before and after scaling.
+3. [Cryptocurrencies Clustering](https://github.com/CelineWW/Cryptocurrencies_Clustering) Cluster cryptocurrencies using KMeans Clustering from the view of elbow curve.
+4. [Charity Foundation](https://github.com/CelineWW/Neural_Network_Charity_Analysis) Predict funding success with Neural Network and optimize the model by repreprocessing data and fine tuning hyperparameters.
 
 [<img src="images/FoodMart on Heroku.png"/>](https://celineww.github.io/FoodMart_Media_Campaign/)
 
@@ -39,7 +38,7 @@ Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Noteb
 ## Data Visualization 
 > 
 ### Skills
-Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
+Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ### Projects
 1. [SuperStore Analysis](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory) Show patterns and trends of sales, products ans customer analysis on Tableau.
 2. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
@@ -51,11 +50,11 @@ Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ## Data Mining and Statistic Analysis 
 > 
 ### Skills
-Python, Pandas, Numpy, R
+Python, Pandas, Numpy, R, MS Excel
 ### Projects
-1. 
-2. 
-3. Mars
+1. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Discover the relationship between duration of employment and employee's demografics. Based on result, predict employee attrition by multiple ML model. 
+2. [Stock_Analysis_Excel_VBA](https://github.com/CelineWW/Stock_Analysis_Excel_VBA) Create stock index and calculate total daily volume and returns.
+3. [MechaCar R Statistical Analysis](https://github.com/CelineWW/MechaCar_Statistical_Analysis) Determine significant features that mostly impact MPG with multiple linear regression. Identify product quality from the statistics summary and t-test.
 
 ---
 ## Cloud Computing 
@@ -63,7 +62,7 @@ Python, Pandas, Numpy, R
 ### Skills
 AWS, Google Cloud Planform, MySQL
 ### Projects
-[Multi-Cloud]((/pdf/sample_presentation.pdf))
+1. [Multi-Cloud]((/pdf/sample_presentation.pdf))
 
 <img src="images/Covid MultiCloud System.png"/>
 
