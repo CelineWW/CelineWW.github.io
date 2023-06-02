@@ -11,7 +11,7 @@
 ## Data Engineering and Data Warehousing
 > 
 ### Skills
- PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data
+PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data
 ### Projects
 1. [Movies ETL Pipeline:](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local file. well-structured dataset (26M records) was loaded into SQL for further queries.
 2. [Amazon Vine Review Big Data:](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon Office Products reviews via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
@@ -41,28 +41,17 @@ Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Noteb
 ### Skills
 Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ### Projects
-1. 
-2. 
+1. [SuperStore Analysis]([https://github.com/CelineWW/AmazingMart_Tableau](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory)) Show patterns and trends of sales, products ans customer analysis on Tableau.
+2. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
+3. [Mapping Earthquake](https://github.com/CelineWW/Mapping_Earthquakes) Visualiz earthquakes in past 7 days around the world and its relation to tectonic plates.
 
-- Foodmart
--BBB 
--AmzingMart
-- 
-
-[Flask App](https://celineww.github.io/FoodMart_Media_Campaign/)
-
-<img src="images/FoodMart on Heroku.png"/>
-
-[Tableau](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
-<!--   -->
-
-<img src="images/AmazingMart Sales Analysis Tableau.png"/>
+[<img src="images/AmazingMart Sales Analysis Tableau.png"/>](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 ---
 ## Data Mining and Statistic Analysis 
 > 
 ### Skills
-Web Scraping Python, Pandas, Numpy, R
+Python, Pandas, Numpy, R
 ### Projects
 1. 
 2. 
