@@ -7,9 +7,11 @@
 - [Education](#education)
 - [Certificates](#certificates)
 ---
+
 ## Data Engineering and Data Warehousing
 ### Skills
-- PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
+PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
+
 ### Projects
 <table border="0">
  <tr>
@@ -26,19 +28,20 @@
   </tr>
 </table>
 
+---
 ## Machine Learning
 ### Skills
-- Python, VS Code, Jupyter Notebook, Google Colab,
+*Python, VS Code, Jupyter Notebook, Google Colab,
 ### Projects
 
 ## Data Visualization 
 ### Skills
-- Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
+*Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel*
 ### Projects
 - Foodmart
----BBB 
----AmzingMart
---- 
+-BBB 
+-AmzingMart
+- 
 
 [Flask App](https://celineww.github.io/FoodMart_Media_Campaign/)
 
@@ -49,13 +52,14 @@
 
 <img src="images/AmazingMart Sales Analysis Tableau.png"/>
 
+---
 ## Data Mining and Statistic Analysis 
 ### Skills
 - Web Scraping Python, Pandas, Numpy, R
 ### Projects
 Mars
 
-
+---
 ## Cloud Computing 
 ### Skills
 - AWS, Google Cloud Planform, MySQL
@@ -66,14 +70,8 @@ Mars
 
 
 
----
-
 
 ---
-
-
----
-
 ### Data Visualization
 
 - Taleau(http://example.com/)
@@ -83,10 +81,6 @@ Mars
 - [Project 5 Title](http://example.com/)
 
 ---
----
-layout: default
----
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
