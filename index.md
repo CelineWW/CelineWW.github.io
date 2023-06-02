@@ -7,10 +7,11 @@
 - [Education](#education)
 - [Certificates](#certificates)
 -
+
 ---
 ## Data Engineering and Data Warehousing
 ### Skills
->PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark_ 
+> PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, PySpark 
 ### Projects
 <table border="0">
  <tr>
@@ -30,12 +31,12 @@
 ---
 ## Machine Learning
 ### Skills
-_Python, VS Code, Jupyter Notebook, Google Colab,_
+> Python, VS Code, Jupyter Notebook, Google Colab
 ### Projects
 
 ## Data Visualization 
 ### Skills
-_Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel_
+> Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel
 ### Projects
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -58,7 +59,7 @@ _Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet, MS Excel_
 ---
 ## Data Mining and Statistic Analysis 
 ### Skills
-_Web Scraping Python, Pandas, Numpy, R_
+> Web Scraping Python, Pandas, Numpy, R
 ### Projects
 1. 
 2. 
@@ -67,7 +68,7 @@ _Web Scraping Python, Pandas, Numpy, R_
 ---
 ## Cloud Computing 
 ### Skills
-_AWS, Google Cloud Planform, MySQL_
+> AWS, Google Cloud Planform, MySQL
 ### Projects
 [Multi-Cloud]((/pdf/sample_presentation.pdf))
 
@@ -122,7 +123,7 @@ end
 3.  This is an ordered list following a header.
 
 ### Education
-*Currently working as a __learning assistant(Instrutional Specialiazation Team)__ in __Data Analytics and Visualization Program__ in 2U  
+*Currently working as a __Learning Assistant__(Instrutional Specialiazation Team) in __Data Analytics and Visualization Program__ in 2U  
 
 | Degree             | Major                                            | School                              | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
