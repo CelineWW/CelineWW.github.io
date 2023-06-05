@@ -65,7 +65,7 @@ Python, Pandas, Numpy, R, MS Excel
 ### Skills
 AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 ### Projects
-1. [Covid Testing MultiCloud](/pdf/multi-cloud computing.pdf) Deploy hotel customer covid test system docker container application running in the Google cloud, whereas saving customer's privacy on AWS.
+1. [Covid Testing MultiCloud](/pdf/multi-cloud\ computing.pdf) Deploy hotel customer covid test system docker container application running in the Google cloud, whereas saving customer's privacy on AWS.
 
 [<img src="images/Covid MultiCloud System.png"/>](https://github.com/CelineWW/Covid_Testing_Cloud_Data)
 
