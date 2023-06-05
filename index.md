@@ -3,7 +3,7 @@
 - [Machine Learning](#machine-learning)
 - [Data Visualization](#data-visualization)
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
-- [Cloud Computing](#cloud-coumputing)  
+- [Cloud Computing](#cloud-computing)  
 - [Work Experience](#work-experience)
 - [Education](#education)
 - [Certificates](#certificates)
