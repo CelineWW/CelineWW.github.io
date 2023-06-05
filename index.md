@@ -72,9 +72,9 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 ---
 ## Work Experience 
 <dl>
-<dt>Learning Assistant</dt>
-<dd>Data Analytics and Visualization Program in 2U| 03/2023 - present</dd>
-<dl>
+<dt>Learning Assistant (Instructional Specialist)</dt>
+<dd>Data Analytics and Visualization Program in 2U | 03/2023 - present</dd>
+</dl>
   
 ---
 ## Education
