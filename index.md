@@ -60,7 +60,7 @@ Python, Pandas, Numpy, R, MS Excel
 [<img src="images/hist1.png"/>](https://github.com/CelineWW/Employee_Attrition_Prediction) 
 
 ---
-## Cloud Computing and Automation
+## Cloud Computing
 > 
 ### Skills
 AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
