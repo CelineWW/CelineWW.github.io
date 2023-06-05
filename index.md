@@ -4,6 +4,7 @@
 - [Data Visualization](#data-visualization)
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
 - [Cloud Computing](#cloud-coumputing)  
+- [Work Experience](#work-experience)
 - [Education](#education)
 - [Certificates](#certificates)
 
@@ -69,9 +70,15 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 [<img src="images/Covid MultiCloud System.png"/>](https://github.com/CelineWW/Covid_Testing_Cloud_Data)
 
 ---
-### Education
-*Currently working as a __Learning Assistant__(Instrutional Specialiazation Team) in __Data Analytics and Visualization Program__ in 2U  
-<!-- 
+## Work Experience 
+<dl>
+<dt>Learning Assistant</dt>
+<dd>Data Analytics and Visualization Program in 2U| 03/2023 - present</dd>
+<dl>
+  
+---
+## Education
+
 | Degree             | Major                                            | Institution                         | Period           |
 |:-------------------|:-------------------------------------------------|:------------------------------------|:-----------------|
 | Boot Camp          | Data Science and Visualization                   | University of California San Diego  | 05/2022 -11/2022 |
@@ -81,14 +88,14 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 <dl>
 <dt>Data Science and Visualization Boot Camp</dt>
 <dd>University of California San Diego | 05/2022 -11/2022</dd>
-<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
+<dt>M.Ed. in Chemistry Education</dt>
 <dd>Nanjing Normal University(China) | 09/2007 -07/2010</dd>
 <dt>B.S. in Chemistry</dt>
 <dd>Anhui Normal University | 09/2003 -07/2007</dd>
 </dl>
 
 ---
-### Certificates
+## Certificates
   - Machine Learning Specialization --**Deeplearning.AI**
   - Data science and visualization --**UCSD**           
   - Intensive Multi-Cloud Computing --**The Cloud Bootcamp**
