@@ -53,7 +53,7 @@ Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ### Skills
 Python, Pandas, Numpy, R, MS Excel
 ### Projects
-1. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Discover the relationship between duration of employment and employee's demografics. Based on result, predict employee attrition by multiple ML model. 
+1. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Discover the relationship between duration of employment and employee's demographics. Based on result, predict employee attrition by multiple ML model. 
 2. [Stock_Analysis_Excel_VBA](https://github.com/CelineWW/Stock_Analysis_Excel_VBA) Create stock index and calculate total daily volume and returns.
 3. [MechaCar R Statistical Analysis](https://github.com/CelineWW/MechaCar_Statistical_Analysis) Determine significant features that mostly impact MPG with multiple linear regression. Identify product quality from the statistics summary and t-test.
 
