@@ -42,8 +42,9 @@ Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Noteb
 Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ### Projects
 1. [SuperStore Analysis](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory) Show patterns and trends of sales, products, and customer analysis on Tableau.
-2. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
-3. [Mapping Earthquake](https://github.com/CelineWW/Mapping_Earthquakes) Visualize earthquakes in past 7 days around the world and its relation to tectonic plates.
+2. [Funding Startups](https://public.tableau.com/app/profile/celine7593/viz/FundingStartups/FundingStartupsStory) Target startup companies with threshold of expenses, revenue, and top growth.  
+3. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
+4. [Mapping Earthquake](https://github.com/CelineWW/Mapping_Earthquakes) Visualize earthquakes in past 7 days around the world and its relation to tectonic plates.
 
 [<img src="images/AmazingMart Sales Analysis Tableau.png"/>](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
