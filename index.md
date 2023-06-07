@@ -1,5 +1,5 @@
 # Portfolio
-- [Data Engineering and Data Warehousing](#data-engineering-and-data-warehousing)
+- [Data Management](#data-management)
 - [Machine Learning](#machine-learning)
 - [Data Visualization](#data-visualization)
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
@@ -9,7 +9,7 @@
 - [Certificates](#certificates)
 
 ---
-## Data Engineering and Data Warehousing
+## Data Management
 > 
 ### Skills
 PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data
