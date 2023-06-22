@@ -101,7 +101,7 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
   - Data science and visualization --**UCSD**           
   - Intensive Multi-Cloud Computing --**The Cloud Bootcamp**
   - Data Analyst Professional Program  --**Task Impetus**
-  - Python, MySQL, MS Excel --**LinkedIn**
+  - Python, Machine Learning, MySQL, MS Excel --**LinkedIn**
 
 <p>
 <a href="mailto: wzhj.ce@gmail.com">
