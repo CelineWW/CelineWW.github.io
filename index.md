@@ -99,9 +99,11 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 ## Certificates
   - Machine Learning Specialization --**Deeplearning.AI**
   - Data science and visualization --**UCSD**           
+  - Prompt Engineering and Advanced ChatGPT --**edX**
   - Intensive Multi-Cloud Computing --**The Cloud Bootcamp**
   - Data Analyst Professional Program  --**Task Impetus**
   - Python, Machine Learning, MySQL, MS Excel --**LinkedIn**
+
 
 <p>
 <a href="mailto: wzhj.ce@gmail.com">
