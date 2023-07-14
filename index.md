@@ -28,7 +28,7 @@ PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big
 Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Notebook, Google Colab
 ### Projects
 1. [FoodMart Media Campaign](https://github.com/CelineWW/FoodMart_Media_Campaign) Predict store sales and media cost with multiple linear regression. Classify customer membership with deep neural network.
-2. [MercadoLibre_Financial_Forecast](https://github.com/CelineWW/MercadoLibre_Financial_Forecast) Based on google search data, company stock price, and revenue data to get insights and forecasting for the better future plan. 
+2. [MercadoLibre_Financial_Forecast](https://github.com/CelineWW/MercadoLibre_Financial_Forecast) Based on google search data, company stock price, and revenue data to get insights and forecasting for the better plan. 
 3. [Credit Risk Prediction](https://github.com/CelineWW/Credit_Risk_Prediction) Predict customer credit risk with logistic regression and classifier models using resampling methods. Compare the model perform metrics before and after scaling.
 4. [Cryptocurrencies Clustering](https://github.com/CelineWW/Cryptocurrencies_Clustering) Cluster cryptocurrencies using KMeans Clustering from the view of elbow curve.
 5. [Charity Foundation](https://github.com/CelineWW/Neural_Network_Charity_Analysis) Predict funding success with Neural Network and optimize the model by re-preprocessing data and fine tuning hyperparameters.
