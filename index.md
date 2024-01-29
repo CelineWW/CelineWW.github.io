@@ -69,7 +69,7 @@ Python, Pandas, Numpy, R, MS Excel
 C++, Python, Java, Javascript, Assembly language
 ### Projects
 1. [Banking](https://github.com/CelineWW/Banking_in_CPP) Create a superclass Account and subclass Checking and Saving to allow customer to create Checking and Saving account with a unique ID for transactions independently and interactively.
-2. [Election Analysis](https://github.com/CelineWW/PyPoll_Election_Python) Calculated the number of votes and vote turnout for each candidate to determine a local congressional election results.
+2. [Election Analysis](https://github.com/CelineWW/PyPoll_Election_Python) Calculate the number of votes and vote turnout for each candidate to determine a local congressional election results.
 [<img src="images/list_of_employees.png"/>](https://github.com/CelineWW/List_of_Employees)
 
 ---
