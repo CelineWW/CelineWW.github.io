@@ -3,6 +3,7 @@
 - [Machine Learning](#machine-learning)
 - [Data Visualization](#data-visualization)
 - [Data Mining and Statistic Analysis](#data-mining-and-statistic-analysis)
+- [Programming](#programming)
 - [Cloud Computing](#cloud-computing)  
 - [Work Experience](#work-experience)
 - [Education](#education)
@@ -62,6 +63,16 @@ Python, Pandas, Numpy, R, MS Excel
 [<img src="images/hist1.png"/>](https://github.com/CelineWW/Employee_Attrition_Prediction) 
 
 ---
+## Programming
+> 
+### Skills
+C++, Python, Java, Javascript, Assembly language
+### Projects
+1. [Banking](https://github.com/CelineWW/Banking_in_CPP) Create a superclass Account and subclass Checking and Saving to allow customer to create Checking and Saving account with a unique ID for transactions independently and interactively.
+2. [Election Analysis](https://github.com/CelineWW/PyPoll_Election_Python) Calculated the number of votes and vote turnout for each candidate to determine a local congressional election results.
+[<img src="images/list_of_employees.png"/>](https://github.com/CelineWW/List_of_Employees)
+
+---
 ## Cloud Computing
 > 
 ### Skills
@@ -71,11 +82,16 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 
 [<img src="images/Covid MultiCloud System.png"/>](https://github.com/CelineWW/Covid_Testing_Cloud_Data)
 
+
 ---
 ## Work Experience 
 <dl>
-<dt>Learning Assistant (Instructional Specialist)</dt>
-<dd>Data Analytics and Visualization Program in 2U | 03/2023 - present</dd>
+<dt>Research Assistant III </dt>
+<dd>San Diego College of Continuing Education | 01/2024 - present</dd>
+</dl>
+<dl>
+<dt>Instructional Specialist (Learning Assistant)</dt>
+<dd>Data Analytics and Visualization Program in 2U(edX) | 03/2023 - 01/2024</dd>
 </dl>
   
 ---
