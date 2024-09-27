@@ -13,12 +13,13 @@
 ## Data Management
 > 
 ### Skills
-PostgreSQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data
+PostgreSQL, Azure SQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data, Hyperion
 ### Projects
-1. [Movies ETL Pipeline](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local file. well-structured dataset (26M records) was loaded into SQL for further queries.
-2. [Amazon Vine Review Big Data](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon Office Products reviews via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
-3. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
-4. [Mars Web Scaping](https://github.com/CelineWW/Mars_Web_Scrapping) Reorganize the Mars information from multiple websites into a customized flask app.
+1. [Data Queries with Data Engineering]() Advanced SQL queries and subqueries associated with windows functions was designed and implemented to collect student demographics and program success metrics.
+2. [Movies ETL Pipeline](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local file. well-structured dataset (26M records) was loaded into SQL for further queries.
+3. [Amazon Vine Review Big Data](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon Office Products reviews via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
+4. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
+5. [Mars Web Scaping](https://github.com/CelineWW/Mars_Web_Scrapping) Reorganize the Mars information from multiple websites into a customized flask app.
 
 [<img src="images/extract_transform_load(wiki_file, kaggle_file, ratings_file).PNG"/>](https://github.com/CelineWW/Movies_ETL)
 
@@ -43,10 +44,11 @@ Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Noteb
 ### Skills
 Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ### Projects
-1. [SuperStore Analysis](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory) Show patterns and trends of sales, products, and customer analysis on Tableau.
-2. [Funding Startups](https://public.tableau.com/app/profile/celine7593/viz/FundingStartups/FundingStartupsStory) Target startup companies with threshold of expenses, revenue, and top growth.  
-3. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
-4. [Mapping Earthquake](https://github.com/CelineWW/Mapping_Earthquakes) Visualize earthquakes in past 7 days around the world and its relation to tectonic plates.
+1. [Project Log]() Analyzed team organization and hour tracking with Power BI, including time lapse, search bar, keyword lists, and hierarchical filters. 
+2. [SuperStore Analysis](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory) Show patterns and trends of sales, products, and customer analysis on Tableau.
+3. [Funding Startups](https://public.tableau.com/app/profile/celine7593/viz/FundingStartups/FundingStartupsStory) Target startup companies with threshold of expenses, revenue, and top growth.  
+4. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
+5. [Mapping Earthquake](https://github.com/CelineWW/Mapping_Earthquakes) Visualize earthquakes in past 7 days around the world and its relation to tectonic plates.
 
 [<img src="images/AmazingMart Sales Analysis Tableau.png"/>](https://public.tableau.com/views/AmazingMartSalesAnalysis_16770489812220/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
@@ -54,11 +56,12 @@ Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ## Data Mining and Statistic Analysis 
 > 
 ### Skills
-Python, Pandas, Numpy, R, MS Excel
+Python, Pandas, Numpy, R, MS Excel, SPSS
 ### Projects
 1. [Employee Attrition Prediction](https://github.com/CelineWW/Employee_Attrition_Prediction) Discover the relationship between duration of employment and employee's demographics. Based on result, predict employee attrition by multiple ML model. 
 2. [Stock Analysis Excel VBA](https://github.com/CelineWW/Stock_Analysis_Excel_VBA) Create stock index and calculate total daily volume and returns.
 3. [MechaCar R Statistical Analysis](https://github.com/CelineWW/MechaCar_Statistical_Analysis) Determine significant features that mostly impact MPG with multiple linear regression. Identify product quality from the statistics summary and t-test.
+4. [Chemistry teaching efficacy Analysis](https://www.linkedin.com/in/cewrs/details/education/1635508650263/single-media-viewer/?profileId=ACoAADcU6EEBURplSVqYgErySCnuAQs7gHix8BU) Developed and analyzed surveys on high school chemistry teaching efficacy using SPSS. Conducted exploratory and statistical analyses (t-tests, ANOVA, factor analysis) and incorporated interviews and observations to propose improvements from a psychological perspective.
 
 [<img src="images/hist1.png"/>](https://github.com/CelineWW/Employee_Attrition_Prediction) 
 
@@ -104,16 +107,19 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 | Bachelor of Science| Chemistry                                        | Anhui Normal University(China)      | 09/2003 -07/2007 |  -->
 
 <dl>
+<dt>Computer Science and Machine Learning</dt>
+<dd>Community College and Coursera | 11/2022 - present</dd>
 <dt>Data Science and Visualization Boot Camp</dt>
-<dd>University of California San Diego | 05/2022 -11/2022</dd>
-<dt>M.Ed. in Chemistry Education</dt>
-<dd>Nanjing Normal University (China) | 09/2007 -07/2010</dd>
+<dd>University of California San Diego | 05/2022 - 11/2022</dd>
+<dt>M.Ed. in Curriculum and Teaching Methodology (Chemistry)</dt>
+<dd>Nanjing Normal University (China) | 09/2007 - 07/2010</dd>
 <dt>B.S. in Chemistry</dt>
-<dd>Anhui Normal University | 09/2003 -07/2007</dd>
+<dd>Anhui Normal University | 09/2003 - 07/2007</dd>
 </dl>
 
 ---
 ## Certificates
+  - Mathematics for Machine Learning and Data Science --**Deeplearning.AI**
   - Machine Learning Specialization --**Deeplearning.AI**
   - Data science and visualization --**UCSD**           
   - Prompt Engineering and Advanced ChatGPT --**edX**
