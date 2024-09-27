@@ -15,7 +15,7 @@
 ### Skills
 PostgreSQL, Azure SQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup, Spark, Big data, Hyperion
 ### Projects
-1. [Data Queries with Data Engineering]() Advanced SQL queries and subqueries associated with windows functions was designed and implemented to collect student demographics and program success metrics.
+1. [Data Queries with Data Engineering](https://github.com/CelineWW/CelineWW.github.io/blob/master/images/SQL-StudentDemographics%20Sample%20.png) Advanced SQL queries and subqueries associated with windows functions was designed and implemented to collect student demographics and program success metrics.
 2. [Movies ETL Pipeline](https://github.com/CelineWW/Movies-ETL) Extract and transform Movie data from different sources including Wikipedia, Kaggle metadata and local file. well-structured dataset (26M records) was loaded into SQL for further queries.
 3. [Amazon Vine Review Big Data](https://github.com/CelineWW/Amazon_Vine_Bias_Pyspark) Analyze Amazon Office Products reviews via AWS RDS to determine if there is any prior bias toward leaving reviews from Amazon Vine.
 4. [Plan My Trip APIs](https://github.com/CelineWW/Plan_My_Trip_APIs) Recommend hotels in target city and travel routes based on customer's weather preferences.
@@ -27,7 +27,7 @@ PostgreSQL, Azure SQL, MySQL, APIs, NoSQL(MongoDB), SQLite, ETL, Beautiful Soup,
 ## Machine Learning
 >
 ### Skills
-Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Notebook, Google Colab
+Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, VS Code, Jupyter Notebook, Google Colab
 ### Projects
 1. [FoodMart Media Campaign](https://github.com/CelineWW/FoodMart_Media_Campaign) Predict store sales and media cost with multiple linear regression. Classify customer membership with deep neural network.
 2. [MercadoLibre_Financial_Forecast](https://github.com/CelineWW/MercadoLibre_Financial_Forecast) Based on google search data, company stock price, and revenue data to get insights and forecasting for the better plan. 
@@ -44,7 +44,7 @@ Scikit-learn, Tensorflow, Numpy, Pandas, Seaborn, Python, VS Code, Jupyter Noteb
 ### Skills
 Flask, Matplotlib, Tableau, HTML, CSS, Javascript, Plotly, Leaflet
 ### Projects
-1. [Project Log]() Analyzed team organization and hour tracking with Power BI, including time lapse, search bar, keyword lists, and hierarchical filters. 
+1. [Project Log](https://github.com/CelineWW/CelineWW.github.io/blob/master/images/Power%20BI%20-%20Project%20Log.png) Analyzed team organization and hour tracking with Power BI, including time lapse, search bar, keyword lists, and hierarchical filters. 
 2. [SuperStore Analysis](https://public.tableau.com/app/profile/celine7593/viz/SuperStore_16767861451250/SuperStoreStory) Show patterns and trends of sales, products, and customer analysis on Tableau.
 3. [Funding Startups](https://public.tableau.com/app/profile/celine7593/viz/FundingStartups/FundingStartupsStory) Target startup companies with threshold of expenses, revenue, and top growth.  
 4. [Biodiversity Ploty Dashboard](https://github.com/CelineWW/Biodiversity_Plotly_Dashboard) Create an interactive dashboard to display bacteria cultures of each test object.
@@ -69,7 +69,7 @@ Python, Pandas, Numpy, R, MS Excel, SPSS
 ## Programming
 > 
 ### Skills
-C++, Python, Java, Javascript, Assembly language
+C++, Python, Java, JavaScript (HTML, CSS, Flask), Data Structures, Algorithms, Pointers, R, Assembly language
 ### Projects
 1. [Banking](https://github.com/CelineWW/Banking_in_CPP) Create a superclass Account and subclass Checking and Saving to allow customer to create Checking and Saving account with a unique ID for transactions independently and interactively.
 2. [Election Analysis](https://github.com/CelineWW/PyPoll_Election_Python) Calculate the number of votes and vote turnout for each candidate to determine a local congressional election results.
@@ -89,13 +89,26 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 ---
 ## Work Experience 
 <dl>
-<dt>Research Assistant III </dt>
+<dt>Research Assistant III</dt>
 <dd>San Diego College of Continuing Education | 01/2024 - present</dd>
 </dl>
 <dl>
 <dt>Instructional Specialist (Learning Assistant)</dt>
 <dd>Data Analytics and Visualization Program in 2U(edX) | 03/2023 - 01/2024</dd>
 </dl>
+<dl>
+<dt>Mandarin Chinese Teacher</dt>
+<dd>Tri-Cities Chinese Language School | 01/2019 - 12/2019</dd>
+</dl>
+<dl>
+<dt>R&D Chemist and Technical Consultant</dt>
+<dd>Nikken Chemical Laboratory Co., Ltd., Japan | 08/2015 - 10/2019</dd>
+</dl>
+<dl>
+<dt>Research Associate</dt>
+<dd>Electrochemical Energy Lab, Mie University | 04/2011 - 03/2014</dd>
+</dl>
+
   
 ---
 ## Education
