@@ -94,7 +94,7 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 </dl>
 <dl>
 <dt>Instructional Specialist (Learning Assistant)</dt>
-<dd>Data Analytics and Visualization Program in 2U(edX) | 03/2023 - 01/2024</dd>
+<dd>Data Analytics and Visualization in 2U(edX) | 03/2023 - 01/2024</dd>
 </dl>
 <dl>
 <dt>Mandarin Chinese Teacher</dt>
@@ -106,7 +106,7 @@ AWS, Google Cloud Planform, Terroform, Docker, Kubernetes
 </dl>
 <dl>
 <dt>Research Associate</dt>
-<dd>Electrochemical Energy Lab, Mie University | 04/2011 - 03/2014</dd>
+<dd>Electrochemical Energy Lab, Mie University, Japan | 04/2011 - 03/2014</dd>
 </dl>
 
   
